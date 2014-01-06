@@ -4,7 +4,7 @@
 //
 //  Created by Albert on 8/30/12.
 //  Copyright (c) 2012 Albert. All rights reserved.
-//
+//  maokaiyin@gmail.com
 
 #import "UIView+AddSubViewAt.h"
 
